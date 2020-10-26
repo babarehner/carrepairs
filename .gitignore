@@ -1,4 +1,4 @@
-carworvenv/
+venv/
 .idea/
 migrations/
 __pycache__/
